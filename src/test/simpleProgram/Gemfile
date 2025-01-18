@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+gem "hi_friend", ">= 0.1.0"
+gem "prism", ">= 1.2.0"
